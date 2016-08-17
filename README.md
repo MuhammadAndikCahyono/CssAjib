@@ -1,2 +1,3 @@
-# CssAjib
-CSS Ajib adalah css ringan, responsive Indonesia punya
+# CSS AJIB
+
+CSS AJIB adalah library CSS yang didesain khusus untuk mengasah kemampuan untuk mendesain website.
