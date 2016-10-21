@@ -1,0 +1,183 @@
+html{
+	background-color: #232426 !important;
+	color:#FFF;
+}
+
+.header{
+	/*
+	background: url("http://ganool.dev/mov-content/themes/default/images/overlay_black.png")!important;
+    background-repeat: repeat !important;
+	*/
+	
+	background: url("http://ganool.dev/mov-content/themes/default/images/header_gradien.png")!important;
+    background-repeat: repeat-x !important;
+}
+
+.logo{
+	background-image: url("http://ganool.dev/mov-content/themes/default/images/ganool.png");
+}
+
+.container{
+}
+
+.span_240{
+	height:auto !important;
+}
+
+.span_320{
+	width:320px;
+	/*padding:10px 10px 10px 10px;*/
+}
+
+.span_640{
+`	width:620px;
+	/*padding:10px 10px 10px 10px;*/
+}
+
+.footer{
+	margin-top:10px;
+	padding-top:10px;
+	padding-bottom:10px;
+	background: #171717;
+}
+
+.merah{
+	background:red !important;
+}
+
+.kuning{
+	background:yellow !important;
+}
+
+.hijau{
+	background:green !important;
+}
+
+.blue{
+	background:blue !important;
+}
+
+.putih{
+	background:#FFF;
+}
+
+.warna_putih{
+	color:#FFFFFF;
+}
+
+.warna_putih a{
+	color:#FFFFFF;
+}
+
+.hitam{
+	background:#000;
+}
+
+.bg_no{
+	background:transparent !important;
+}
+
+.transparent{
+	background:transparent !important;
+}
+
+.credits{
+	background-color: #0000ff !important;
+}
+
+.li{
+	padding: 4px 0 4px 20px;
+    background: url("http://ganool.dev/mov-content/themes/default/images/list.png") no-repeat 0px 7px;
+}
+
+.box_hero{
+	/*background-image:url("http://ganool.dev/mov-content/themes/default/images/INTRO_AmazingSpiderMan.jpg");*/
+	/*background-image:url("Captain_America_The_First_Avenger_2011.jpg");*/
+	background-image:url("kung-fu-panda.jpg");
+	/*background-image:url("http://localhost/wordpress2016/wp-content/uploads/2016/06/Chris-Evans-Captain-America-Trilogy.jpg");*/
+}
+
+.tagline{
+	top: 45%;
+	position:absolute;
+}
+
+.cover_mov {
+    width: 150px;
+    display: block;
+    float: left;
+    padding: 5px;
+}
+
+.cover_mov img {
+    width: 150px !important;
+    height: 214px !important;
+}
+
+.ml-item{
+	width: 150px;
+    height: 214px;
+}
+
+.toggle:hover {
+	background-image: url("navbar-toggle_tekan_d.png");
+}
+
+/*
+	Detail Movie
+*/
+
+.kolom_info {
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 300px;
+}
+
+.kolom_info_table {
+    margin-top: 20px;
+    font-size: 16px;
+    line-height: 20px;
+    color: #c7c7c7;
+}
+
+.poster_300{
+}
+
+.poster_300 .poster{
+	width:320px;
+	margin-bottom:10px;
+}
+
+@media (min-width:240px){
+	.poster_300 .poster{
+		width:100%;
+	}
+}
+
+h1.title {
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 28px;
+    color: #eee;
+}
+
+.besar{
+	font-weight:bold;
+	color:#FFFFFF;
+}
+
+.poster_160{
+	text-align:center;
+}
+
+.poster_160 a{
+	font-weight:bold;
+}
+
+
+.posisi_bottom_kiri{
+	background:rgba(136,198,76,0.9);
+	color:#FFFFFF;
+	bottom:5%;
+	left:10%;
+}
